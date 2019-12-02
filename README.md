@@ -15,4 +15,4 @@ A tiny project that displays current humidity and temperature on SSD1306 I2C OLE
 
 Author：Wu Han  
 Homepage：http://wuhanstudio.cc  
-Email：wuhanstudio@hust.edu.cn  
+Contact：https://github.com/wuhanstudio/tiny-dht11/issues
